@@ -15,3 +15,8 @@
 ## Authors:
 * Ollie Crook
 * David Warrington
+
+## Screenshots
+![Screenshot of the Twitter Stream in the Console](https://github.com/davidwarrington/twitter-stream/blob/master/ss/Screenshot-Twitter-Stream-01.png?raw=true)
+
+![Screenshot of the Twitter Stream Output](https://github.com/davidwarrington/twitter-stream/blob/master/ss/Screenshot-Twitter-Stream-02.png?raw=true)
