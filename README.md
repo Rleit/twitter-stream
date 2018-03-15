@@ -7,7 +7,7 @@
 4. Check the output file
 
 ## Reading:
-* [MDN - Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+* [Mozilla Developer Network - Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
 ## Notes:
 * `stream.js` is the same as `stream_vanilla.js` but makes use of ES6 features, for example using const and let instead of var.
